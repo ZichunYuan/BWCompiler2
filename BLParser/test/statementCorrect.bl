@@ -1,0 +1,9 @@
+  WHILE true DO
+    infect
+    IF next-is-empty THEN
+      move
+    END IF
+    infect
+    infect
+  END WHILE
+
